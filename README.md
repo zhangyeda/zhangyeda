@@ -1,12 +1,11 @@
 ## 人生如旷野
-![Lake](https://github.com/zhangyeda/zhangyeda/assets/22109726/dbccde10-76c5-4d43-999b-8da7dbb9f169)
 
 
 ### - 🔭 Working on
 
 * DeepLearning based Image Processing 
 * OpenStack
-* Ray
+* pKVM
 
 ### - ⭐️ &nbsp;Github Star
 
@@ -21,4 +20,4 @@
 
 ### - 📫 How to reach me
 
-Email: zhang_yeda@163.com
+Email: jedzhang24@gmail.com
